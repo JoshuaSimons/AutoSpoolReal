@@ -1,0 +1,147 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\Joshua\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\cores\\arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\Joshua\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\variants\\mega"
+  },
+  {
+    "Sourcefile": "C:\\Users\\Joshua\\OneDrive - University of Waterloo\\Documents\\School\\Co-op\\ALT TEX\\Projects\\AutoSpoolReal\\build\\sketch\\AutoSpoolReal.ino.cpp",
+    "Include": "MobaTools.h",
+    "Includepath": "C:\\Users\\Joshua\\OneDrive - University of Waterloo\\Documents\\Arduino\\libraries\\MobaTools\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\Joshua\\OneDrive - University of Waterloo\\Documents\\School\\Co-op\\ALT TEX\\Projects\\AutoSpoolReal\\build\\sketch\\AutoSpoolReal.ino.cpp",
+    "Include": "Wire.h",
+    "Includepath": "C:\\Users\\Joshua\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\libraries\\Wire\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\Joshua\\OneDrive - University of Waterloo\\Documents\\School\\Co-op\\ALT TEX\\Projects\\AutoSpoolReal\\build\\sketch\\AutoSpoolReal.ino.cpp",
+    "Include": "LiquidCrystal_I2C.h",
+    "Includepath": "C:\\Users\\Joshua\\OneDrive - University of Waterloo\\Documents\\Arduino\\libraries\\LiquidCrystal_I2C"
+  },
+  {
+    "Sourcefile": "C:\\Users\\Joshua\\OneDrive - University of Waterloo\\Documents\\School\\Co-op\\ALT TEX\\Projects\\AutoSpoolReal\\build\\sketch\\AutoSpoolReal.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Joshua\\OneDrive - University of Waterloo\\Documents\\Arduino\\libraries\\MobaTools\\src\\avr\\MoToAVR.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Joshua\\OneDrive - University of Waterloo\\Documents\\Arduino\\libraries\\MobaTools\\src\\avr\\driversAVR.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Joshua\\OneDrive - University of Waterloo\\Documents\\Arduino\\libraries\\MobaTools\\src\\esp32\\MoToESP32.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Joshua\\OneDrive - University of Waterloo\\Documents\\Arduino\\libraries\\MobaTools\\src\\esp32\\driversESP32.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Joshua\\OneDrive - University of Waterloo\\Documents\\Arduino\\libraries\\MobaTools\\src\\esp8266\\ESP8266_waveform.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Joshua\\OneDrive - University of Waterloo\\Documents\\Arduino\\libraries\\MobaTools\\src\\esp8266\\MoToESP8266.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Joshua\\OneDrive - University of Waterloo\\Documents\\Arduino\\libraries\\MobaTools\\src\\megaAVR\\MoToMegaAVR.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Joshua\\OneDrive - University of Waterloo\\Documents\\Arduino\\libraries\\MobaTools\\src\\megaAVR\\driversMegaAVR.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Joshua\\OneDrive - University of Waterloo\\Documents\\Arduino\\libraries\\MobaTools\\src\\ra4m1\\MoToRA4M1.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Joshua\\OneDrive - University of Waterloo\\Documents\\Arduino\\libraries\\MobaTools\\src\\ra4m1\\driversRA4M1.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Joshua\\OneDrive - University of Waterloo\\Documents\\Arduino\\libraries\\MobaTools\\src\\stm32f1\\MoToSTM32F1.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Joshua\\OneDrive - University of Waterloo\\Documents\\Arduino\\libraries\\MobaTools\\src\\stm32f1\\driversSTM32F1.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Joshua\\OneDrive - University of Waterloo\\Documents\\Arduino\\libraries\\MobaTools\\src\\stm32f4\\MoToSTM32F4.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Joshua\\OneDrive - University of Waterloo\\Documents\\Arduino\\libraries\\MobaTools\\src\\stm32f4\\driversSTM32F4.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Joshua\\OneDrive - University of Waterloo\\Documents\\Arduino\\libraries\\MobaTools\\src\\utilities\\MoToPwmESP.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Joshua\\OneDrive - University of Waterloo\\Documents\\Arduino\\libraries\\MobaTools\\src\\utilities\\MoToServo.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Joshua\\OneDrive - University of Waterloo\\Documents\\Arduino\\libraries\\MobaTools\\src\\utilities\\MoToSoftled.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Joshua\\OneDrive - University of Waterloo\\Documents\\Arduino\\libraries\\MobaTools\\src\\utilities\\MoToSoftled32.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Joshua\\OneDrive - University of Waterloo\\Documents\\Arduino\\libraries\\MobaTools\\src\\utilities\\MoToSoftledESP.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Joshua\\OneDrive - University of Waterloo\\Documents\\Arduino\\libraries\\MobaTools\\src\\utilities\\MoToStepper.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Joshua\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\libraries\\Wire\\src\\Wire.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Joshua\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.6\\libraries\\Wire\\src\\utility\\twi.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\Joshua\\OneDrive - University of Waterloo\\Documents\\Arduino\\libraries\\LiquidCrystal_I2C\\LiquidCrystal_I2C.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
